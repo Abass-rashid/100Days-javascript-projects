@@ -1,48 +1,43 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# 100 DAYS of Javscript
 
-> Description the project.
-
+> this is where i will dedicate to create 100 mini project of javascript with 100 incoming days
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5
+- CSS3
+- JavaScript
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Basic Computer Literacy
 
-### Setup
+### visual studio code , git , github
 
-### Install
+### google chrome
 
 ### Usage
 
 ### Run tests
 
-### Deployment
-
-
+### github page
 
 ## Authors
 
-👤 **Author1**
+👤 **Abass Rashid**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/Abass-rashid)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
